@@ -3,7 +3,14 @@
   "version": "0.0.0",
   "description": "weather-app",
   "main": "app.js",
-  "author": {
-    "name": ""
-  }
+  "author": "",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
 }
